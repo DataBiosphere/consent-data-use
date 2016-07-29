@@ -1,0 +1,4 @@
+language: generic
+sudo: true
+before_script:
+  - source data-use-check.sh
