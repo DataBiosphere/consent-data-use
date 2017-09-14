@@ -1,4 +1,3 @@
 language: generic
-sudo: true
-before_script:
-  - source data-use-check.sh
+
+script: ./data-use-check.sh src/ontology/data-use.owl
