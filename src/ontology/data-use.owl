@@ -107,7 +107,6 @@
 
     <owl:Class rdf:about="http://www.broadinstitute.org/ontologies/DUOS/female">
         <rdfs:label rdf:datatype="&xsd;string">female</rdfs:label>
-        <rdfs:subClassOf rdf:resource="http://www.broadinstitute.org/ontologies/DUOS/population"/>
         <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DUOS:000023</oboInOwl:id>
     </owl:Class>
     
